@@ -1,0 +1,7 @@
+{
+  "name": "nepse-portfolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
